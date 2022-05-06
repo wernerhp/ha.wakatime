@@ -1,0 +1,10 @@
+{
+  "domain": "wakatime",
+  "name": "Wakatime",
+  "version": "0.0.1",
+  "documentation": "https://github.com/wernerhp/ha.wakatime",
+  "dependencies": [],
+  "codeowners": ["@wernerhp"],
+  "requirements": []
+}
+
